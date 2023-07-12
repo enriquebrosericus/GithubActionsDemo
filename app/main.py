@@ -8,6 +8,7 @@ app = Flask(__name__)
 
 # added a comment
 # another comment
+# comments rule!
 
 
 @app.route("/<random_string>")
